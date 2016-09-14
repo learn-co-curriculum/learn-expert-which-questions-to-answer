@@ -19,4 +19,15 @@ This might sound overwhelming, but if you;ve gone through the Full Stack course 
 
 To find out who to refer the student to, check out the [learn-instructors.md](/learn-instructors.md) page. If no one is in charge of the section, have them email fullstack@flatironschool.com
 
+## Old Questions
+
+We don’t want the Ask A Question feature to be filled with tons of old questions, so we need to deal with these. **At least once during your shift, go through all Inactive Questions.** If the last student response is listed longer than a day ago (chat will say ‘Yesterday’ or something is greater than 24 hours), then we should be closing it. 
+
+First add a message using this template 
+
+>“Hey {name}, I noticed that you haven’t touched this question in over 24 hours so I’m going to mark it resolved. If you >still need a hand, please feel free to open another question!”. 
+
+Once you send this message, mark it resolved. The student will then get a link to the resolved question emailed to them so they’ll get the message and all the other info from the chat!
+
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-which-questions-to-answer'>Learn Expert Which Questions To Answer </a> on Learn.co and start learning to code for free.</p>
