@@ -25,7 +25,7 @@ We don’t want the Ask A Question feature to be filled with tons of old questio
 
 First add a message using this template 
 
->“Hey {name}, I noticed that you haven’t touched this question in over 24 hours so I’m going to mark it resolved. If you >still need a hand, please feel free to open another question!”. 
+>“Hey {name}, I noticed that you haven’t touched this question in over 24 hours so I’m going to mark it resolved. If you still need a hand, please feel free to open another question!”. 
 
 Once you send this message, mark it resolved. The student will then get a link to the resolved question emailed to them so they’ll get the message and all the other info from the chat!
 
