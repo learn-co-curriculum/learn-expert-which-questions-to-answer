@@ -12,6 +12,9 @@ We support questions across many different tracks.
 - Bootcamp Prep (free course) 
 - Some old legacy intro tracks
 
+![questions](http://i.giphy.com/xTk9ZMytZS75B48rD2.gif "questions")
+
+
 This might sound overwhelming, but if you've gone through the Full Stack course work, supporting the other tracks should be no problem as the content in them come primarily from Full Stack. 
 
 Also, you don't have to memorize these track names. We've set up learn.co/expert-chat so that only questions on supported batches show up there. That being said, there are still some questions that come through that we do not support.
