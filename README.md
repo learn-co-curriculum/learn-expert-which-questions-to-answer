@@ -19,6 +19,8 @@ This might sound overwhelming, but if you've gone through the Full Stack course 
 
 Also, you don't have to memorize these track names. We've set up learn.co/expert-chat so that only questions on supported batches show up there. That being said, there are still some questions that come through that we do not support.
 
+It's also worth noting that we direct some questions that we cannot answer directly. We can escalate questions regarding bugs, billing, admissions, etc... (more on these later!)
+
 ## Unsupported Questions
 
 **We do not support questions on student assessments.** If a student asks a question about their assessment, we want to say something like this: "Hey {name}, we can't actually support questions on assessments anymore. If you take a look back at previous labs and have already Googled and you still need a hand, you should reach out to {learn instructor name} at {learn instructor email}. Best of luck with the assessment and I'm sorry we cannot provide more support."
