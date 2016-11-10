@@ -15,7 +15,7 @@ We support questions across many different tracks.
 ![questions](http://i.giphy.com/xTk9ZMytZS75B48rD2.gif "questions")
 
 
-This might sound overwhelming, but if you've gone through the Full Stack course work, supporting the other tracks should be no problem as the content in them come primarily from Full Stack. 
+This might sound overwhelming, but if you've gone through the Full Stack course work, supporting the other tracks should be no problem as the content in them comes primarily from Full Stack. 
 
 Also, you don't have to memorize these track names. We've set up learn.co/expert-chat so that only questions on supported batches show up there. That being said, there are still some questions that come through that we do not support.
 
@@ -25,7 +25,7 @@ It's also worth noting that we direct some questions that we cannot answer direc
 
 **We do not support questions on student assessments.** If a student asks a question about their assessment, we want to say something like this: "Hey {name}, we can't actually support questions on assessments anymore. If you take a look back at previous labs and have already Googled and you still need a hand, you should reach out to {learn instructor name} at {learn instructor email}. Best of luck with the assessment and I'm sorry we cannot provide more support."
 
-To find out who to refer the student to, check out the [learn-instructors.md](https://github.com/learn-co-curriculum/learn-expert-learn-instructors) page. If no one is in charge of the section, have them email fullstack@flatironschool.com
+To find out who to refer the student to, check out the [learn-instructors.md](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) page. If no one is in charge of the section, have them email fullstack@flatironschool.com
 
 ## Old Questions
 
