@@ -23,16 +23,7 @@ It's also worth noting that we direct some questions that we cannot answer direc
 
 ## Unsupported Questions
 
-**We do not support questions on student assessments.** If a student asks a question about their assessment, we want to say something like this: "Hey {name}, we can't actually support questions on assessments anymore. If you take a look back at previous labs and have already Googled and you still need a hand, you should reach out to {learn instructor name} at {learn instructor email}. Best of luck with the assessment and I'm sorry we cannot provide more support."
+**We do not support questions on student assessments.** If a student asks a question about their assessment, we want to say something like this: 
 
-To find out who to refer the student to, check out the [learn-instructors.md](https://github.com/flatiron-labs/learn-support/blob/master/learn-instructors.md) page. If no one is in charge of the section, have them email fullstack@flatironschool.com
+"Hey {name}, we can't actually support questions on assessments through Ask A Question. However, there are several resources you can take advantage of to help with your project. There are frequent study groups focused on portfolio projects. There are also quite a few videos you can search through at http://instruction.learn.co. Finally, if you've tried study groups and still need more, you can book a 30-min session with a Portfolio Support Coach. For more info and the link to book a session, you can check out this article on the help center: http://help.learn.co/instructional-support/receiving-course-support/who-can-i-contact-for-help-on-my-portfolio-project
 
-## Old Questions
-
-We don’t want the Ask A Question feature to be filled with tons of old questions, so we need to deal with these. **At least once during your shift, go through all Inactive Questions.** If the last student response is listed longer than a day ago (chat will say ‘Yesterday’ or something is greater than 24 hours), then we should be closing it. 
-
-First add a message using this template 
-
->“Hey {name}, I noticed that you haven’t touched this question in over 24 hours so I’m going to mark it resolved. If you still need a hand, please feel free to open another question!”. 
-
-Once you send this message, mark it resolved. The student will then get a link to the resolved question emailed to them so they’ll get the message and all the other info from the chat!
